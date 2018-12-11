@@ -13,6 +13,8 @@
     unzip social-networks-rekognition-neo4j-blog-master.zip
     ```
     * Open Rekognition_Neo4j.ipynb notebook and run all cells.  Explore results.  When you are done, check on the CloudFormation template you launched at the beginning of this lab.
+    * Resources:
+      * Original Blog Post: https://aws.amazon.com/blogs/machine-learning/understand-movie-star-social-networks-using-amazon-rekognition-and-graph-databases/
 3. Transcribe and Comprehend Lab
     * Go to the link below and follow instructions to launch the lab.
       * https://s3.amazonaws.com/wwps-sagemaker-workshop/lab4.html
